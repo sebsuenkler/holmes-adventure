@@ -15,6 +15,10 @@ Experience Victorian London, gather clues, interrogate suspects, and use your de
 *   **Case Tracking:** The game automatically extracts and remembers key clues, suspects, locations, and items.
 *   **In-Game Commands:** Use `/save`, `/quit`, `/delete`, and `/help` for game management.
 
+## Live-Demo
+
+[https://suenkler-ai.de/sherlock](https://suenkler-ai.de/sherlock)
+
 ## Requirements 📋
 
 *   Python 3.7+
