@@ -1,0 +1,9 @@
+# Required Python packages for Sherlock Holmes: Terminal Case
+openai
+python-dotenv
+
+# Note: Specific versions are not pinned. For more reproducible builds,
+# you might want to freeze your environment after installation
+# using 'pip freeze > requirements.txt' to get specific versions,
+# e.g., openai==1.17.0
+#     python-dotenv==1.0.1
