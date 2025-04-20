@@ -1,10 +1,8 @@
-# Sherlock Holmes: Terminal Case 🕵️‍♂️
+# Sherlock Holmes: AI-powered Interactive Adventure
 
-Welcome to **Sherlock Holmes: Terminal Case**, an interactive text-based adventure game powered by AI! Step into the shoes of the world's greatest detective and solve mysteries generated dynamically by a Large Language Model (LLM) accessed via the Nebius API.
+Welcome to **Sherlock Holmes: Interactive Adventure**, an interactive text-based adventure game powered by AI! Step into the shoes of the world's greatest detective and solve mysteries generated dynamically by a Large Language Model (LLM) accessed via the Nebius API.
 
 Experience Victorian London, gather clues, interrogate suspects, and use your deductive prowess – all narrated in the **first-person perspective** as if you *are* Sherlock Holmes.
-
-![Placeholder Image - Consider adding a screenshot/GIF of gameplay here]
 
 ## Features ✨
 
@@ -20,7 +18,7 @@ Experience Victorian London, gather clues, interrogate suspects, and use your de
 ## Requirements 📋
 
 *   Python 3.7+
-*   A Nebius AI API Key (obtainable from Nebius AI).
+*   A Nebius AI API Key (obtainable from Nebius AI) or another OpenAI-compatible API.
 
 ## Installation ⚙️
 
@@ -122,5 +120,4 @@ Contributions are welcome! If you have suggestions for improvements or find bugs
 
 ## License 📄
 
-(Optional: Add your chosen license here, e.g., MIT License)
 This project is licensed under the MIT License - see the LICENSE file for details.
